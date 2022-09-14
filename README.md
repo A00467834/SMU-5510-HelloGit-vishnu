@@ -4,7 +4,7 @@ About me:
 I have completed my bachelor of Engineering in Computer science from chennai,India. I have 3 years of experience in the software development field focussing mainly on web technologies. During this course of time i got introduced to data processing and the power of processing data to infer information  from it. This is when i got interested in this technology and decided to pursue a masters degree in it.
 
 Topic that brought us together:
-Who does'nt like travelling, but some people really dont like :) . But fortunately we 3 of us had a common affinity towards travelling. "Travel, because you only live once" was the common quote we could relate among ourselves. We also had the common tastes in the places we like to visit.
+Who does'nt like travelling, but some people really dont like :) . But fortunately we 3 of us had a common affinity towards travelling. "Travel, because you only live once" was the common quote we could relate among ourselves. We also had the common tastes in places we like to visit.
 
 Fun fact about me:
 I have a habit when i eat i'll make sure that i could see my face on the plate by reflection. This kind of makes me feel that the plate is clean.
